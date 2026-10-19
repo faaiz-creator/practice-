@@ -11,3 +11,9 @@ This is my first repository.
 
 ## Goal
 Build my first contribution to an open-source project.
+
+## My First Branch
+
+I created my first GitHub branch.
+
+I am learning how to make changes safely before merging them into main.
