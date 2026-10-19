@@ -1,2 +1,13 @@
-# practice-
-My first repository to learn Git, GitHub, and open-source collaboration.
+# Git & GitHub Practice
+
+## About
+This is my first repository.
+
+## What I am learning
+- Git fundamentals
+- GitHub repositories
+- Commits and branches
+- Open-source contributions
+
+## Goal
+Build my first contribution to an open-source project.
